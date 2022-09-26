@@ -1,1 +1,1 @@
-"# git-kurssi" 
+"# git-kurssi v2" 
